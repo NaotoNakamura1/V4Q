@@ -1,6 +1,6 @@
-Version: 1.1
+Version: 0.2
 My name is: Naoto Nakamura
-I like Git! True?
+I like Git! True
 
 
  
