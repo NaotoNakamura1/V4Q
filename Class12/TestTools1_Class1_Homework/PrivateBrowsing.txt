@@ -1,0 +1,8 @@
+Google Chrome Version 80.0.3987.116 (Official Build) (64-bit)
+
+It appears that cookies and site data are not recorded in incognito mode.  However, when opening settings to view proof of non-record,
+the settings page opens in a new standard window.  When browsing in normal mode, the settings page opens in the current window/tab.
+
+A tester may find incognito mode beneficial if they want to view a website as a blank user.  That way it would be possible to view
+as a client or customer may view it, instead of an admin user who may have login credentials saved in cookies/site data.  By viewing
+as a customer/client, a tester would be able to ID and report any bugs or issues that may be present.
